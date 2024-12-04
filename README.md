@@ -1,75 +1,61 @@
 # Hi, I’m Naveen Prasad K 👋  
 
-**🎓 Highly motivated and detail-oriented recent graduate with a Bachelor's degree in Computer Science.**  
-Strong foundation in software development, data analysis, and problem-solving. Eager to apply my skills in a challenging tech role and contribute to innovative projects.  
+**🎓 A passionate Computer Science graduate eager to contribute to the tech world!**  
+I bring a strong foundation in software development, data analysis, and problem-solving. I'm motivated to tackle challenging projects and create innovative solutions.  
 
 ---
 
-## 🚀 **Adaptable and Resilient**  
-I thrive in ever-changing environments, quickly adjusting to new technologies, priorities, or challenges.  
-- 🔴 Embrace change as a growth opportunity.  
-- 🔴 Maintain a positive attitude under pressure.  
-- 🔴 Proactively solve problems and deliver results, no matter the obstacles.  
+## 🌟 About Me  
+- 💡 Highly adaptable and resilient, thriving in dynamic environments.  
+- 🗣️ Strong communicator with the ability to collaborate effectively with diverse teams.  
+- 🔍 Detail-oriented and committed to producing high-quality work.  
+- 🚀 Driven by a desire for continuous learning and professional growth.  
 
 ---
 
-## ✨ **Strong Communicator**  
-Clear and effective communication, tailored to diverse audiences.  
-- 🔴 Present complex ideas in a simple, concise manner.  
-- 🔴 Actively listen to understand others' needs.  
-- 🔴 Foster collaboration and build trust for project success.  
+## 🛠️ Skills & Tools  
+
+### Programming Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+
+### Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 
 ---
 
-## 🧐 **Detail-Oriented**  
-Deliver accurate, high-quality results by focusing on every aspect of a task.  
-- 🔴 Identify potential issues early.  
-- 🔴 Maintain precision in data analysis, planning, and documentation.  
-- 🔴 Commit to meeting and exceeding expectations.  
-
----
-
-## 🔥 **Driven and Self-Motivated**  
-Set ambitious goals and take ownership of tasks to go above and beyond.  
-- 🔴 Seek challenges and embrace growth opportunities.  
-- 🔴 Stay focused on objectives despite setbacks.  
-- 🔴 Commit to continuous personal and professional improvement.  
-
----
-
-## 🌐 **Connect with Me**  
+## 🌐 Connect With Me  
 <p align="left">
   <a href="https://www.leetcode.com/naveenacad89" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode Profile" />
   </a>
-</p>  
+</p>
 
 ---
 
-## 🛠️ **Languages and Tools**  
-<p align="left">  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a>
-</p>  
+## 🎥 Featured Projects & Demos  
+Here’s a glimpse of what I’ve worked on!  
 
-![Sample Animation](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)  
+![Project Demo](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)  
 
+> Replace this GIF with your own project showcases.
+
+---
+
+## ✍️ License  
+This README and associated projects are licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+
+---
+
+## 🤝 Acknowledgments  
+- Thanks to my mentors and collaborators for their constant guidance.  
+- Inspired by the open-source community to keep learning and building.  
