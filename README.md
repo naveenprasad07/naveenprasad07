@@ -41,21 +41,3 @@ I bring a strong foundation in software development, data analysis, and problem-
 </p>
 
 ---
-
-## 🎥 Featured Projects & Demos  
-Here’s a glimpse of what I’ve worked on!  
-
-![Project Demo](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)  
-
-> Replace this GIF with your own project showcases.
-
----
-
-## ✍️ License  
-This README and associated projects are licensed under the [MIT License](https://opensource.org/licenses/MIT).  
-
----
-
-## 🤝 Acknowledgments  
-- Thanks to my mentors and collaborators for their constant guidance.  
-- Inspired by the open-source community to keep learning and building.  
