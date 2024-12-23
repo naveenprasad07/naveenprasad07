@@ -32,6 +32,9 @@ I bring a strong foundation in software development, data analysis, and problem-
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
+### Databases
+![Sql](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=sql&logoColor=white)
+
 ---
 
 ## 🌐 Connect With Me  
