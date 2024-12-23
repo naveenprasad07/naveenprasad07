@@ -33,8 +33,8 @@ I bring a strong foundation in software development, data analysis, and problem-
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ### Databases
-![Sql](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=sql&logoColor=white)
-
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 ---
 
 ## 🌐 Connect With Me  
