@@ -1,4 +1,4 @@
-# Hi, I’m Naveen Prasad K 👋  
+# Hi, I’m Naveen Prasad 👋  
 
 **🎓 A passionate Computer Science graduate eager to contribute to the tech world!**  
 I bring a strong foundation in software development, data analysis, and problem-solving. I'm motivated to tackle challenging projects and create innovative solutions.  
