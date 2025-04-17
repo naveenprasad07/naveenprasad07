@@ -75,5 +75,3 @@ Here are a few highlights from what I’ve been building:
 </p>
 
 ---
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House  
